@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 4f66af9cc2a9f764f8946addbc7a4fc1
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284547
+  packageName: UI Sounds Pack
+  packageVersion: 1.0
+  assetPath: Assets/UI_Sounds_Pack/Modern/Modern_11/Modern_11_2.wav
+  uploadId: 662699

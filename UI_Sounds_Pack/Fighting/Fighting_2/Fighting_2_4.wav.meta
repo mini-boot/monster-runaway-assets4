@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 87a8c9e86d66cfd43b4aaee992fc6e5b
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284547
+  packageName: UI Sounds Pack
+  packageVersion: 1.0
+  assetPath: Assets/UI_Sounds_Pack/Fighting/Fighting_2/Fighting_2_4.wav
+  uploadId: 662699
